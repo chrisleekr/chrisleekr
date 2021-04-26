@@ -2,7 +2,7 @@
 
 ![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisleekr&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisleekr&layout=compact&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisleekr&layout=compact&theme=dark)
 
 
 
