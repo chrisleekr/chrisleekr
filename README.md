@@ -23,8 +23,8 @@
 ## 📊 GitHub Analytics
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=chrisleekr&show_icons=true&hide_border=true&count_private=true&line_height=25&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="200px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisleekr&show_icons=true&count_private=true&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_color=0d1117" height="200px" />
+<img src="https://github-readme-stats.vercel.app/api?username=chrisleekr&show_icons=true&hide_border=true&count_private=true&line_height=25&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="190px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisleekr&show_icons=true&count_private=true&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_color=0d1117" height="190px" />
 </div>
 
 ## 🏆 GitHub Trophies
